@@ -1,0 +1,14 @@
+V0.01.01
+Mod creation collecting together all the homeless and misplaced missiles and launchers into one easy to manage pack 
+Separate cfgs' from assets for easier future collaborative management 
+
+V0.01.02   
+Pre beta category check , effectiveness, and tnt addition testing
+
+V0.01.03   
+BDA damage overhaul beta version 
+initial distribution
+
+V0.02.0
+Recitfy issues with FX and sounds on torpedoes, breaking dependency on other SM group mods, specifically SM Marine and SM Armory  Does not remove requirement for SM Industries
+Further missile tuning and upgrades
